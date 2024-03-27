@@ -9,7 +9,7 @@
     <img width="96" height="96" src="https://img.icons8.com/color/48/html-5--v1.png" alt="html-5--v1"/>
     <img width="96" height="96" src="https://img.icons8.com/color/96/css3.png" alt="css3"/>
     <img width="96" height="96" src="https://img.icons8.com/color/96/javascript--v1.png" alt="javascript--v1"/>
-    <img width="96" height="96" src="https://iconos8.es/icon/ylXrZF2zxsFE/php-logo" alt="Php"/>
+    <img width="96" height="96" src="https://img.icons8.com/officel/160/php-logo.png" alt="php-logo"/>
     <img width="96" height="96" src="https://img.icons8.com/external-others-amoghdesign/96/external-react-native-soleicons-fill-vol-1-others-amoghdesign.png" alt="external-react-native-soleicons-fill-vol-1-others-amoghdesign"/>
     <p style="text-align: center;" > Por aca abajo les dejo mis proyectos realizados 👇</p>
   </section>
