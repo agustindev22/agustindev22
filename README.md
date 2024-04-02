@@ -1,7 +1,7 @@
 <article id="header" style="text-align: center;">
 <img src="https://i.pinimg.com/originals/b1/6e/9e/b16e9ee93afbf1a19d272964663e16a3.jpg" width="800" alt="img de codigo">
  <h1 style="text-align: center;"> Hola a todos,Soy Martinez Agustin👋</h1>
- <h2 style="text-align: center;" style="font-weight: 900;" >Soy programador web front-end Autodidacta</h2>
+ <h2 style="text-align: center;" style="font-weight: 900;" >Soy programador web Jr</h2>
 </article>
 <div style="text-align: center;">
     <h3> Mis skills</h3>
